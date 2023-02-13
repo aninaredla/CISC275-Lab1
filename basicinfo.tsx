@@ -9,4 +9,4 @@ const yourMajor : String = "Information Systems";
 let classification : String = "Junior";
 let oneExcite : String = "learning vscode and its uses";
 let anyConcerns : String = "being overwhelmed by git commands";
-let funFact : String = "i like origami sometimes";
+let funFact : String = "i like origami sometimes, i also solve the megaminx";
